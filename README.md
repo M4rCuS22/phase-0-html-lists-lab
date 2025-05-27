@@ -83,7 +83,7 @@ categories and one or more items in _each_:
     Snacks
     <ul>
       <li>Baba Ghanoush</li>
-      <li>Za’atar Bread</li>
+      <li>Za'atar Bread</li>
     </ul>
   </li>
   <li>
